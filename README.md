@@ -1,1 +1,1 @@
-# Distort StarMade modding API
+# Distort StarMade mod setup
